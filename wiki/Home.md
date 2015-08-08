@@ -6,7 +6,7 @@ Si.
 
 Porque se ejecutaría todo a la vez y me ralentiza mucho el inicio del ordenador.
 
-Además, por mi frecuentemente que use esos programas el día que solo quiero encender el ordenador para otra cosa me fastidia enormemente tener que esperar a que se arranque todo y luego tener que cerrarlo todo otra vez.
+Además, por muy frecuentemente que use esos programas el día que solo quiero encender el ordenador para otra cosa me fastidia enormemente tener que esperar a que se arranque todo y luego tener que cerrarlo todo otra vez.
 
 # Entonces usa Pliqui
 

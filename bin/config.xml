@@ -1,0 +1,15 @@
+<xml wait="60">
+	<app seg="05" nombre="Aimp" exe="C:\Archivos de programa\AIMP2\AIMP2.exe"/>
+	<app min="01" nombre="Notepad++" iu="true" exe="C:\Archivos de programa\Notepad++\notepad++.exe"/>
+	<app min="02" nombre="MobaXterm" iu="true" exe="C:\MobaXterm\MobaXterm_Personal_6.1.exe"/>
+	<app min="04" nombre="Outlook" exe="C:\Archivos de programa\Microsoft Office\Office12\OUTLOOK.EXE" arg="/recycle"/>
+	<app min="08" nombre="Prosa" exe="C:\Archivos de programa\IBM\SDP\eclipse.exe" arg="-product com.ibm.rational.rsa4ws.product.v75.ide"/>
+	<app min="04" nombre="Tareas.xls" iu="true" dup="true" exe="C:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE" arg='/r /e "O:\RED\TAREAS.XLS"'/>
+	<app min="09" nombre="Toad" iu="true" exe="C:\Archivos de programa\Quest Software\Toad for Oracle\toad.exe"/>
+	<app 
+		min="10" 
+		nombre="Chrome" 
+		iu="true"
+		exe="C:\Documents and Settings\99GU5372\Config~1\Datos de programa\Google\Chrome\Application\chrome.exe" 
+	/>
+</xml>
